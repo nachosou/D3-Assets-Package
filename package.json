@@ -5,9 +5,9 @@
     "description": "This is a simple Level Manager",
     "unity": "2019.1",
     "unityRelease": "0b5",
-    "documentationUrl": "https://example.com/",
-    "changelogUrl": "https://example.com/changelog.html",
-    "licensesUrl": "https://example.com/licensing.html",
+    "documentationUrl": "https://github.com/nachosou/D3-Assets-Package/blob/f6c04b8f87c45b36f39bc756597655d1b137ef75/README.md",
+    "changelogUrl": "https://github.com/nachosou/D3-Assets-Package/blob/f6c04b8f87c45b36f39bc756597655d1b137ef75/CHANGELOG.md",
+    "licensesUrl": "https://github.com/nachosou/D3-Assets-Package/blob/f6c04b8f87c45b36f39bc756597655d1b137ef75/LICENSE.md",
    "keywords": [
       "Level",
       "LevelManager",
